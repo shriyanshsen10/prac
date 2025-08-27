@@ -12,4 +12,5 @@ print(c)
 
 data = [a,b,c]
 
-print(data)
+print(data) 
+data=10
