@@ -13,4 +13,8 @@ print(c)
 data = [a,b,c]
 
 print(data) 
-text="I am just learnning"
+text="I am just learning. No need to get riled uyo"
+
+a = 10
+b= 20
+print(a*b)
