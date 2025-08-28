@@ -13,4 +13,4 @@ print(c)
 data = [a,b,c]
 
 print(data) 
-data=10
+text="I am just learnning"
